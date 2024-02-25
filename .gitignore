@@ -6,6 +6,7 @@
 /storage/dotenv-editor
 /storage/framework/laravel-excel
 /storage/debugbar
+/storage
 /storage/installed
 /vendor
 /.idea
